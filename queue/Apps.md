@@ -1,0 +1,4 @@
+
+- zed
+- zellij
+- vercel
