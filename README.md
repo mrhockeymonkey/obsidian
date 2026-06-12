@@ -1,1 +1,3 @@
 # obsidian
+
+all my thoughts
